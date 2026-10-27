@@ -1,5 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e9ef,50:aab6c8,100:1f3a5f&height=200&section=header&text=Arthur%20Ribeiro&fontSize=50&fontColor=1b2a41&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Arthur Ribeiro" />
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5B7FB5&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%92%BB;Python+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%8C%B1" alt="Texto animado de apresentação" />
+</div>
+
 **Estudante de Engenharia de Software | Python | C | IA | Automação | Backend**
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ribeiro-a2581540b/)
