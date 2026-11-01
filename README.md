@@ -23,17 +23,9 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 
 ## ⚡ Tecnologias e Ferramentas
 
-**Linguagens e dados**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Backend e IA**
-
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<div align="center">
+  <img src="tecnologias.svg" alt="Tecnologias e ferramentas: Python, C, SQLite, REST API, OpenAI, Git, GitHub e VS Code" width="100%" />
+</div>
 
 ---
 
