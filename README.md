@@ -47,30 +47,13 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 | [desenvolvimento-de-algoritmo-e-pensamento-computacional](https://github.com/arthurxfe/desenvolvimento-de-algoritmo-e-pensamento-computacional) | Exercícios e desafios de lógica e algoritmos | C |
 
 ---
+
 ## 📚 Atualmente estudando
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🧱 Estruturas de Dados</h3>
-      <sub>Organizar e manipular dados com eficiência</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🔌 APIs REST</h3>
-      <sub>Criar e consumir APIs com Python</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <h3>⚙️ Engenharia de Software</h3>
-      <sub>Boas práticas, versionamento e trabalho em equipe</sub>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 Automação com Python</h3>
-      <sub>Scripts que eliminam tarefas repetitivas</sub>
-    </td>
-  </tr>
-</table>
+![Estruturas de Dados](https://img.shields.io/badge/Estruturas_de_Dados-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
+![APIs REST](https://img.shields.io/badge/APIs_REST-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
+![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
+![Automação com Python](https://img.shields.io/badge/Automação_com_Python-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41)
 
 ---
 
