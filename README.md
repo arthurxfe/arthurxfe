@@ -22,7 +22,7 @@ Sou estudante de Engenharia de Software e desenvolvedor em formação, com foco 
 - **Já construí:** um chatbot com IA que responde perguntas a partir de documentos PDF e projetos em grupo com Python, SQLite e Git, como um sistema de estoque e um conversor de temperatura.
 - **Estudando agora:** backend, banco de dados e boas práticas de engenharia de software.
 - **Objetivo:** entrar em uma equipe de tecnologia, ganhar experiência profissional e construir soluções inteligentes para problemas reais.
-- 
+ 
 <br>
 
 <h2 align="center">Tecnologias e Ferramentas</h2>
