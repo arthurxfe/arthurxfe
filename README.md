@@ -57,4 +57,18 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=arthur
+  <img src="https://github-stats-extended.vercel.app/api/?username=arthurxfe&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=arthurxfe&disable_animations=true&number_format=long&locale=pt-br&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&icon_color=5B7FB5&hide_border=true&border_radius=12" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurxfe&layout=compact&custom_title=Linguagens+mais+usadas&langs_count=6&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&hide_border=true&border_radius=12" alt="Linguagens mais usadas" height="170" />
+</div>
+
+<br>
+
+<h2 align="center">Contato</h2>
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/arthur-ribeiro-a2581540b/) · [ribeiro.arthur595@gmail.com](mailto:ribeiro.arthur595@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e9ef,50:aab6c8,100:1f3a5f&height=100&section=footer" width="100%" alt="" />
