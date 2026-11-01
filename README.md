@@ -60,12 +60,14 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=arthurxfe&hide_border=true&border_radius=12&background=1b2a41&ring=aab6c8&fire=5B7FB5&currStreakNum=e6e9ef&sideNums=e6e9ef&currStreakLabel=aab6c8&sideLabels=aab6c8&dates=8b9bb4" alt="Sequência de contribuições" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=arthurxfe&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=arthurxfe&disable_animations=true&number_format=long&locale=pt-br&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&icon_color=5B7FB5&hide_border=true&border_radius=12" alt="Estatísticas do GitHub" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurxfe&layout=compact&custom_title=Linguagens+mais+usadas&langs_count=6&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&hide_border=true&border_radius=12" alt="Linguagens mais usadas" height="170" />
 </div>
 
-![Seguidores](https://img.shields.io/github/followers/arthurxfe?style=for-the-badge&color=1f3a5f&labelColor=1b2a41)
-![Último commit](https://img.shields.io/github/last-commit/arthurxfe/chatbot-especialista-pdf?style=for-the-badge&color=1f3a5f&labelColor=1b2a41)
- 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arthurxfe/arthurxfe/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições em formato Pac-Man" />
+</div>
+
 ---
 
 ## 📫 Contato
