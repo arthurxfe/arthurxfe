@@ -33,16 +33,49 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 
 <h2 align="center">Projetos em destaque</h2>
 
-<div align="center">
+<h2 align="center">Projetos em destaque</h2>
 
-| Projeto | O que faz | Stack |
-|:--|:--|:--|
-| [chatbot-especialista-pdf](https://github.com/arthurxfe/chatbot-especialista-pdf) | Chatbot com IA que responde perguntas com base em documentos PDF | Python, IA |
-| [projeto-gerenciador_estoque](https://github.com/Raiane19/projeto-gerenciador_estoque) | Em grupo. Sistema de estoque com login (senha com SHA-256), CRUD de produtos, entrada e saída e alerta de estoque baixo | Python, SQLite |
-| [desafio-colaborativo](https://github.com/Raiane19/desafio-colaborativo) | Em grupo. Conversor de temperatura com menu interativo e 6 conversões entre Celsius, Fahrenheit e Kelvin. Minha parte: Fahrenheit ↔ Kelvin | Python, Git |
-| [desenvolvimento-de-algoritmo-e-pensamento-computacional](https://github.com/arthurxfe/desenvolvimento-de-algoritmo-e-pensamento-computacional) | Exercícios e desafios de lógica e algoritmos | C |
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/arthurxfe/chatbot-especialista-pdf">Chatbot Especialista em PDF</a></h3>
+      <p>Chatbot com IA que responde perguntas com base em documentos PDF.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/IA-412991?style=flat-square" alt="IA" />
+      </p>
+      <sub>Projeto individual · <a href="https://github.com/arthurxfe/chatbot-especialista-pdf">Ver repositório →</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Raiane19/projeto-gerenciador_estoque">Gerenciador de Estoque</a></h3>
+      <p>Sistema com login (senha com SHA-256), CRUD de produtos, entradas e saídas e alerta de estoque baixo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+      </p>
+      <sub>Projeto em grupo · <a href="https://github.com/Raiane19/projeto-gerenciador_estoque">Ver repositório →</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Raiane19/desafio-colaborativo">Conversor de Temperatura</a></h3>
+      <p>Menu interativo com 6 conversões entre Celsius, Fahrenheit e Kelvin. Minha parte: Fahrenheit ↔ Kelvin.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+      </p>
+      <sub>Projeto em grupo · <a href="https://github.com/Raiane19/desafio-colaborativo">Ver repositório →</a></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/arthurxfe/desenvolvimento-de-algoritmo-e-pensamento-computacional">Algoritmos e Pensamento Computacional</a></h3>
+      <p>Exercícios e desafios de lógica e algoritmos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+      </p>
+      <sub>Projeto individual · <a href="https://github.com/arthurxfe/desenvolvimento-de-algoritmo-e-pensamento-computacional">Ver repositório →</a></sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
