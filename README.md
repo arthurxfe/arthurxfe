@@ -50,10 +50,9 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 
 ## 📚 Atualmente estudando
 
-![Estruturas de Dados](https://img.shields.io/badge/Estruturas_de_Dados-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
-![APIs REST](https://img.shields.io/badge/APIs_REST-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
-![Engenharia de Software](https://img.shields.io/badge/Engenharia_de_Software-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41) 
-![Automação com Python](https://img.shields.io/badge/Automação_com_Python-estudando-1f3a5f?style=for-the-badge&labelColor=1b2a41)
+<div align="center">
+  <img src="assets/estudando.svg" alt="Atualmente estudando: Estruturas de Dados, APIs REST, Engenharia de Software e Automação com Python" width="100%" />
+</div>
 
 ---
 
