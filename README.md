@@ -64,10 +64,6 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurxfe&layout=compact&custom_title=Linguagens+mais+usadas&langs_count=6&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&hide_border=true&border_radius=12" alt="Linguagens mais usadas" height="170" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arthurxfe/arthurxfe/output/pacman-contribution-graph.svg" alt="Gráfico de contribuições em formato Pac-Man" />
-</div>
-
 ---
 
 ## 📫 Contato
