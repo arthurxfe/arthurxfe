@@ -51,7 +51,7 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 ## 📚 Atualmente estudando
 
 <div align="center">
-  <img src="assets/estudando.svg" alt="Atualmente estudando: Estruturas de Dados, APIs REST, Engenharia de Software e Automação com Python" width="100%" />
+  <img src="estudando.svg" alt="Atualmente estudando: Estruturas de Dados, APIs REST, Engenharia de Software e Automação com Python" width="100%" />
 </div>
 
 ---
