@@ -66,10 +66,6 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 ![Seguidores](https://img.shields.io/github/followers/arthurxfe?style=for-the-badge&color=1f3a5f&labelColor=1b2a41)
 ![Último commit](https://img.shields.io/github/last-commit/arthurxfe/chatbot-especialista-pdf?style=for-the-badge&color=1f3a5f&labelColor=1b2a41)
  
- <div
- <img src="https://github-readme-stats.vercel.app/api?username=arthurxfe&show_icons=true&hide_border=true&border_radius=12&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&icon_color=5B7FB5" alt="Estatísticas do GitHub" height="170" />
- </div>
- 
 ---
 
 ## 📫 Contato
