@@ -33,8 +33,6 @@ Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissi
 
 <h2 align="center">Projetos em destaque</h2>
 
-<h2 align="center">Projetos em destaque</h2>
-
 <table>
   <tr>
     <td width="50%" valign="top">
