@@ -1,65 +1,60 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e9ef,50:aab6c8,100:1f3a5f&height=200&section=header&text=Arthur%20Ribeiro&fontSize=50&fontColor=1b2a41&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Arthur Ribeiro" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e9ef,50:aab6c8,100:1f3a5f&height=180&section=header&text=Arthur%20Ribeiro%20Ferreira&fontSize=42&fontColor=1b2a41&fontAlignY=38&desc=Engenharia%20de%20Software%20%C2%B7%20Python%20%C2%B7%20IA%20%C2%B7%20Backend&descSize=16&descAlignY=60&descColor=1b2a41&animation=fadeIn" width="100%" alt="Arthur Ribeiro Ferreira" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=5B7FB5&center=true&vCenter=true&width=750&lines=Ol%C3%A1%2C+eu+sou+o+Arthur+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%92%BB;Python+%7C+IA+%7C+Automa%C3%A7%C3%A3o+%F0%9F%9A%80;Sempre+aprendendo+e+evoluindo+%F0%9F%8C%B1" alt="Texto animado de apresentação" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=5B7FB5&center=true&vCenter=true&width=600&height=40&lines=Estudante+de+Engenharia+de+Software;Python+%7C+C+%7C+SQLite;Backend%2C+automa%C3%A7%C3%A3o+e+IA" alt="Estudante de Engenharia de Software" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ribeiro-a2581540b/)
+[![E-mail](https://img.shields.io/badge/E--mail-1b2a41?style=flat-square&logo=gmail&logoColor=white)](mailto:ribeiro.arthur595@gmail.com)
+
 </div>
 
-**Estudante de Engenharia de Software | Python | C | IA | Automação | Backend**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-ribeiro-a2581540b/)
-[![Email](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribeiro.arthur595@gmail.com)
+<h2 align="center">Sobre mim</h2>
 
----
+Sou estudante de Engenharia de Software e desenvolvedor em formação. Gosto de transformar problemas do dia a dia em soluções com código, principalmente com **Python**, **automação** e **Inteligência Artificial**.
 
-## 👨‍💻 Sobre mim
-
-Sou Arthur Ribeiro Ferreira, estudante de Engenharia de Software e desenvolvedor em formação. Gosto de transformar problemas do dia a dia em soluções com código, principalmente com **Python**, **automação** e **Inteligência Artificial**.
-
-Já desenvolvi um chatbot com IA que responde perguntas a partir de documentos PDF e participei de projetos em grupo, como um sistema de estoque com Python e SQLite e um conversor de temperatura, usando Git, branches e GitHub para trabalhar em equipe. Hoje estou aprofundando backend, banco de dados e boas práticas de engenharia de software.
+Desenvolvi um chatbot com IA que responde perguntas a partir de documentos PDF e participei de projetos em grupo, como um sistema de estoque com Python e SQLite e um conversor de temperatura, usando Git, branches e GitHub para trabalhar em equipe. Hoje aprofundo backend, banco de dados e boas práticas de engenharia de software.
 
 Meu objetivo é entrar em uma equipe de tecnologia, ganhar experiência profissional e construir soluções inteligentes para problemas reais.
 
----
+<br>
 
-## ⚡ Tecnologias e Ferramentas
+<h2 align="center">Tecnologias e Ferramentas</h2>
 
 <div align="center">
   <img src="tecnologias.svg" alt="Tecnologias e ferramentas: Python, C, SQLite, REST API, OpenAI, Git, GitHub e VS Code" width="100%" />
 </div>
 
----
+<br>
 
-## 🚀 Projetos em destaque
+<h2 align="center">Projetos em destaque</h2>
 
-| Projeto | O que faz | Tecnologias |
-|---|---|---|
+<div align="center">
+
+| Projeto | O que faz | Stack |
+|:--|:--|:--|
 | [chatbot-especialista-pdf](https://github.com/arthurxfe/chatbot-especialista-pdf) | Chatbot com IA que responde perguntas com base em documentos PDF | Python, IA |
-| [projeto-gerenciador_estoque](https://github.com/Raiane19/projeto-gerenciador_estoque) | Projeto em grupo: sistema de estoque com login de usuários (senha com SHA-256), CRUD de produtos, entrada e saída de estoque e alerta de estoque baixo | Python, SQLite |
-| [desafio-colaborativo](https://github.com/Raiane19/desafio-colaborativo) | Projeto em grupo: conversor de temperatura com menu interativo e 6 conversões entre Celsius, Fahrenheit e Kelvin. Minha parte: Fahrenheit ↔ Kelvin | Python, Git, GitHub |
+| [projeto-gerenciador_estoque](https://github.com/Raiane19/projeto-gerenciador_estoque) | Em grupo. Sistema de estoque com login (senha com SHA-256), CRUD de produtos, entrada e saída e alerta de estoque baixo | Python, SQLite |
+| [desafio-colaborativo](https://github.com/Raiane19/desafio-colaborativo) | Em grupo. Conversor de temperatura com menu interativo e 6 conversões entre Celsius, Fahrenheit e Kelvin. Minha parte: Fahrenheit ↔ Kelvin | Python, Git |
 | [desenvolvimento-de-algoritmo-e-pensamento-computacional](https://github.com/arthurxfe/desenvolvimento-de-algoritmo-e-pensamento-computacional) | Exercícios e desafios de lógica e algoritmos | C |
 
----
+</div>
 
-## 📚 Atualmente estudando
+<br>
+
+<h2 align="center">Atualmente estudando</h2>
 
 <div align="center">
   <img src="estudando.svg" alt="Atualmente estudando: Estruturas de Dados, APIs REST, Engenharia de Software e Automação com Python" width="100%" />
 </div>
 
----
+<br>
 
-## 📊 Estatísticas
+<h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/?username=arthurxfe&show_icons=true&rank_icon=github&include_all_commits=true&custom_title=arthurxfe&disable_animations=true&number_format=long&locale=pt-br&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&icon_color=5B7FB5&hide_border=true&border_radius=12" alt="Estatísticas do GitHub" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=arthurxfe&layout=compact&custom_title=Linguagens+mais+usadas&langs_count=6&bg_color=1b2a41&title_color=aab6c8&text_color=e6e9ef&hide_border=true&border_radius=12" alt="Linguagens mais usadas" height="170" />
-</div>
-
----
-
-## 📫 Contato
-
-- LinkedIn: [arthur-ribeiro](https://www.linkedin.com/in/arthur-ribeiro-a2581540b/)
-- E-mail: ribeiro.arthur595@gmail.com
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e6e9ef,50:aab6c8,100:1f3a5f&height=120&section=footer" width="100%" alt="Rodapé" />
+  <img src="https://github-stats-extended.vercel.app/api/?username=arthur
